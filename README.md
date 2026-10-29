@@ -1,5 +1,4 @@
-<img width="1337" height="647" alt="image" src="https://github.com/user-attachments/assets/0ba49922-1815-4186-b445-e797cb1f279e" /><div align="Center">
-<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+
 
 <div align="center">
 
@@ -56,11 +55,13 @@
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
 | <a href="mailto:uziyraf@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="[https://www.instagram.com/rizkafauziyah33/](https://www.instagram.com/rizkafauziyah33/)"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://www.instagram.com/rizkafauziyah33/]"> <img src="https://skillicons.dev/icons?i=discord"/> </a> ‎  <a href="[https://www.linkedin.com/in/rizka-fauziyah-4310bb281/]"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> </a> |
+
+
 ### 🎮Let's Play Game
 
 <img src="https://raw.githubusercontent.com/uziyraf/uziyraf/output/snake.svg" alt="Snake animation" />
 
-</div>
+---
 
 ------
 
